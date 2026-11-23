@@ -1,0 +1,16 @@
+{
+  "name": "contrast",
+  "metadata": {
+    "description": "Your data warehouse, analytics, and beautiful dashboards, one prompt away"
+  },
+  "owner": {
+    "name": "Contrast",
+    "email": "support@embrasure.ai"
+  },
+  "plugins": [
+    {
+      "name": "contrast",
+      "source": "./"
+    }
+  ]
+}

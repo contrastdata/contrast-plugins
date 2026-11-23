@@ -1,0 +1,25 @@
+{
+  "name": "contrast",
+  "version": "0.7.2",
+  "description": "Connect your data, query your warehouse, and build dashboards with Contrast.",
+  "author": {
+    "name": "Contrast",
+    "email": "support@embrasure.ai"
+  },
+  "homepage": "https://contrastdb.com",
+  "keywords": [
+    "data",
+    "warehouse",
+    "analytics",
+    "one-prompt",
+    "sql",
+    "ingestion",
+    "context",
+    "mcp"
+  ],
+  "license": "MIT",
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json",
+  "logo": "./assets/contrast-icon.png",
+  "repository": "https://github.com/contrastdata/contrast-plugins"
+}

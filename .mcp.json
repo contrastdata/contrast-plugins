@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "contrast": {
+      "type": "http",
+      "url": "https://contrastdb.com/api/mcp"
+    }
+  }
+}
