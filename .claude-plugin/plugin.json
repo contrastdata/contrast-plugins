@@ -1,9 +1,9 @@
 {
-  "name": "contrast",
-  "version": "0.7.2",
+  "name": "contrast-warehouse",
+  "version": "0.7.3",
   "description": "Connect your data, query your warehouse, and build dashboards with Contrast.",
   "author": {
-    "name": "Contrast",
+    "name": "Deepslate Inc.",
     "url": "https://contrastdb.com",
     "email": "support@embrasure.ai"
   },
@@ -21,7 +21,7 @@
   "license": "MIT",
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",
-  "displayName": "Contrast",
+  "displayName": "Contrast Warehouse",
   "icon": "./assets/contrast-icon.png",
   "documentationUrl": "https://docs.contrastdb.com/mcp",
   "supportUrl": "https://contrastdb.com/support",

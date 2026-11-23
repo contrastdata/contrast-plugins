@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "contrast",
+      "name": "contrast-warehouse",
       "source": "./"
     }
   ]

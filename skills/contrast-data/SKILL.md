@@ -40,7 +40,7 @@ demand, search for the Contrast tools first. If they are still missing, find the
 client's entry whose URL is `https://contrastdb.com/api/mcp`, and use its listed name:
 
 - Codex: `codex mcp list`. Read the Status column first, then Auth.
-- Claude Code: `claude mcp list`. Plugin installs list `plugin:contrast:contrast`.
+- Claude Code: `claude mcp list`. Plugin installs list `plugin:contrast-warehouse:contrast`.
 - No shell, ChatGPT, or Cursor: ask the user what Contrast shows in the client's MCP
   or app settings (ChatGPT: Settings, then Apps; Cursor: Cursor Settings, then MCP).
 

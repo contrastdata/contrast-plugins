@@ -16,7 +16,7 @@ You'll need a Contrast workspace. Your workspace role determines which setup, so
 ## Try the plugin locally
 
 - **Cursor.** Copy this folder to `~/.cursor/plugins/local/contrast`, reload Cursor, then check Customize for the Contrast skill and MCP server.
-- **Claude Code.** Run `claude --plugin-dir .` from this folder, then open `/mcp` to connect `plugin:contrast:contrast`.
+- **Claude Code.** Run `claude --plugin-dir .` from this folder, then open `/mcp` to connect `plugin:contrast-warehouse:contrast`.
 - **Direct MCP setup.** Use the [Contrast MCP guide](https://docs.contrastdb.com/mcp) to connect without a plugin bundle.
 
 ## Connection and privacy
